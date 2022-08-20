@@ -1,0 +1,32 @@
+*{
+   box-sizing: border-box;
+   font-size: 24px; 
+}
+
+body {
+    margin: 10px;
+    border-top: center;
+    padding: 0;
+    background-color: antiquewhite;
+    overflow-x: hidden;
+}
+
+.title {
+    background-color: aqua;
+    padding: 40px;
+    text-align: center;
+}
+
+.foto {
+    text-align: center;
+}
+
+.foto img {
+    width: 100%;
+}
+
+.cierre {   
+    text-align: center;
+    padding: 0;
+
+}
